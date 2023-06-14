@@ -13,4 +13,4 @@ app.use(cors()) // חייב את זה
 // .then(()=>console.log(`conect to MONGODB`)).catch((err)=>console.log(err));
 
 // app.use(routers) // האפליקציה שלנו תשתמש בrouters
-app.listen(PORT,()=>console.log(`listen to:${PORT}`));// התחברות לשרת 
+app.listen(PORT,()=>console.log(`listen to:${PORT}`));//   שלנו באפליקציה התחברות לשרת 
